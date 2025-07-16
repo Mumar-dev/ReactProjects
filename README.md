@@ -29,6 +29,9 @@ This repository contains a collection of small React projects I built while lear
 - Integrates with the **Giphy API**
 - Allows user to search and fetch random GIFs by tag
 - A great example of async data fetching and input handling
+
+---
+
 - And more – Projects built to explore various hooks and component patterns
 
 ---
